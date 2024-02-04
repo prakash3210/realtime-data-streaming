@@ -7,7 +7,7 @@ This project serves as a comprehensive guide to building an end-to-end data engi
 
 ## System Architecture
 
-![System Architecture](Data engineering architecture.png)
+[System Architecture](https://github.com/prakash3210/realtime-data-streaming/tree/main/Data engineering architecture.png)
 
 The project is designed with the following components:
 
